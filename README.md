@@ -2,7 +2,7 @@
    Spring 2020 course taught by Dr. Ryan P. McMahan about topics in virtual reality and VR environment development using Unity. This repository is created by Mykola Maslych for managing the project files for the assignment submissions.
 
 ### Running project files
-   1. Install [Unity Hub](https://unity3d.com/get-unity/download) and through it [Unity 2019.2.17](unityhub://2019.2.17f1/8e603399ca02)
+   1. Install [Unity Hub](https://unity3d.com/get-unity/download) and through it [Unity 2019.2.17](https://unity3d.com/get-unity/download/archive)
    2. Clone the repository `git clone https://github.com/maslychm/VR_CAP5937.git`
    3. Using Unity Editor, navigate to `Assets/Scenes/Homework *.unity`
 
